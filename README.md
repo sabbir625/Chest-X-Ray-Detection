@@ -39,14 +39,14 @@ The project uses the COVID-19 Radiography Database from Kaggle, containing 23,07
 **Class Distribution:**
 The distribution of the images in the dataset is as follows:
 
-3,616  images are COVID-19	
-1,345  images are Viral Pneumonia	
-10,192  images are Normal (Healthy)	
-700  images are Tuberculosis	
-6,012  images are Lung Opacity	
-1,205  images are Bacterial Pneumonia	
+- 3,616  images are COVID-19	
+- 1,345  images are Viral Pneumonia	
+- 10,192  images are Normal (Healthy)	
+- 700  images are Tuberculosis	
+- 6,012  images are Lung Opacity	
+- 1,205  images are Bacterial Pneumonia	
 
-**Dataset Split:)
+**Dataset Split: **
 
 Training	- 16,146
 Validation	- 3,457
