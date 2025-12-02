@@ -46,11 +46,11 @@ The distribution of the images in the dataset is as follows:
 - 6,012  images are Lung Opacity	
 - 1,205  images are Bacterial Pneumonia	
 
-**Dataset Split: **
+**Dataset Split:**
 
-Training	- 16,146
-Validation	- 3,457
-Testing	- 3,467
+- Training	- 16,146
+- Validation	- 3,457
+- Testing	- 3,467
 
 **Source: Kaggle**
 
