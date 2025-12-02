@@ -1,7 +1,7 @@
 # Chest-X-Ray-Detection
 Welcome to the GitHub repository for Chest X-Ray Detection, a powerful diagnostic tool developed from a dissertation project titled "COVID-19 Detection in Chest X-Ray Images using Explainable Boosting Algorithms". The dissertation addresses the urgent need for transparency in AI-powered diagnostic models. Combining the robustness of Convolutional Neural Networks (CNNs), the strength of eXtreme Gradient Boosting (XGBoost), and the interpretability of Gradient-weighted Class Activation Mapping (Grad-CAM), Chest X-Ray Detection delivers accurate and explainable COVID-19 predictions from chest X-ray images. Achieving an accuracy of 91.61% and an F1 score of 91.39%, this tool is designed to support healthcare professionals in the fight against the pandemic.
 
-#Model Overview
+# Model Overview
 
 Chest X-Ray Detection is a hybrid diagnostic tool that combines the image-processing strength of CNNs, the robust ensemble learning of XGBoost, and the interpretability of Grad-CAM. This integration results in a comprehensive, efficient, and transparent system for detecting six chest-related diseases.
 
@@ -73,7 +73,7 @@ The model was trained with 20 epochs using validation data for optimization and 
 - Visual Studio Code 1.80
 - Google Colab
 
-#Team Mambers
+# Team Mambers
 - Swapna Khanam (21201082)
 - Jannatun Saumoon (21201066)
 - Sabber Hossen Shuvo (21201087)
