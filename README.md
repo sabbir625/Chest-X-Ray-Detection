@@ -11,7 +11,7 @@ Chest X-Ray Detection is a hybrid diagnostic tool that combines the image-proces
 
 **Grad-CAM:** Gradient-weighted Class Activation Mapping (Grad-CAM) provides visual explanations for model predictions by generating heatmaps that highlight the critical regions in an image influencing the decision.
 
-**Methodology**
+**Methodology : **
 
 **1.Data Preprocessing:** Normalizes and standardizes chest X-ray images to improve model learning.
 
